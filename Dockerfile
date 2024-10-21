@@ -1,6 +1,6 @@
 FROM amazoncorretto:11
 
-COPY foodmgt-feature-migration-salifu/genkeyfoodmgtapp/target/foodmgt-0.0.1-SNAPSHOT.jar /foodmgt.jar
+COPY foodmgt-feature-migration-salifu/genkeyfoodmgtapp/target/foodmgt-0.0.1-SNAPSHOT.jar /foodmgt.jar11
 
 VOLUME /tmp
 
